@@ -129,7 +129,7 @@ First you should have java and gradle installed
 
 Bobur Zokirov - [@zokirovbobur](https://t.me/zokirovbobur) - bobur_zokirov@epam.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/zokirovbobur/epm_mentorship_multimodule](https://github.com/zokirovbobur/epm_mentorship_multimodule)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
