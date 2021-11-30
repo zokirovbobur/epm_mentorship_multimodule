@@ -7,19 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Multi-Module-gradle.services" />
-        <module name="Multi-Module-gradle.utils" />
         <module name="Multi-Module-gradle.web" />
+        <module name="web" />
+        <module name="utils" />
+        <module name="admin" />
+        <module name="services" />
+        <module name="Multi-Module-gradle.utils" />
         <module name="Multi-Module-gradle.admin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="admin" target="8" />
       <module name="Module1" target="8" />
       <module name="Module2" target="8" />
       <module name="Multi-Module" target="8" />
-      <module name="services" target="8" />
-      <module name="utils" target="8" />
-      <module name="web" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
